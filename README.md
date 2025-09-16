@@ -1,5 +1,14 @@
 # 🚀 Git Flow - Resumen de Comandos
 
+### Instalar
+
+` sudo apt update
+sudo apt install git-flow -y `
+
+Verificar version
+`git flow version`
+
+
 ## 🔹 Inicializar
 - `git flow init` → Inicializa la estructura de ramas (`main`, `develop`, etc.).
 
