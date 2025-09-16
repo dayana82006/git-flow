@@ -1,10 +1,10 @@
 # 🚀 Git Flow - Resumen de Comandos
 
 ## 🔹 Inicializar
-```bash
+
 git flow init
 
-🔹 Features (Nuevas funcionalidades)
+##🔹 Features (Nuevas funcionalidades)
 git flow feature start nombre-feature
 git flow feature finish nombre-feature
 git flow feature publish nombre-feature
@@ -19,7 +19,7 @@ publish → publica en remoto.
 pull → descarga la rama publicada.
 
 
-🔹 Releases (Preparar versión estable)
+##🔹 Releases (Preparar versión estable)
 git flow release start 1.0.0
 git flow release finish 1.0.0
 git flow release publish 1.0.0
